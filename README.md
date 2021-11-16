@@ -3,10 +3,11 @@
 
 
 ### ArtGANs trained on hand drawn stickmen.
-<img src="../main/generated/generated-images-0100.png" alt="drawing" width="400"/>
+<img src="../main/videos/stickmen.gif" alt="drawing" width="400"/>
+
 
 ### ArtGANs trained on around 78 artists over the years.
-<img src="../main/generated-art/generated-images-0100.png" alt="drawing" width="400"/>
+<img src="../main/videos/artists.gif" alt="drawing" width="400"/>
 
 ### Style Transfer
 <p float="left">
