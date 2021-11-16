@@ -11,12 +11,22 @@
 ### Style Transfer
 <p float="left">
 <img src="../main/content.jpg" alt="drawing" width="200"/>
-+
+ +
 <img src="../main/style.jpg" alt="drawing" width="200"/>
  =
 <img src="../main/stylized-image.png" alt="drawing" width="200"/>
 </p>
 
+
+### Preliminary attempts:
+#### If the GANs were trained on single artists work instead of the entire dataset, the results were horid, mainly due to the utter lack of data and the variation in the artists work over time.
+<p float="left">
+<img src="../main/gen/generated_img_047_8.png" alt="drawing" width="200"/>
+<img src="../main/gen/generated_img_069_8.png"alt="drawing" width="200"/>
+<img src="../main/gen/generated_img_099_9.png" alt="drawing" width="200"/>
+</p>
+
+### Data Sources and references.
 ##### The Stickmen were courtesy of [Ochilbek Rakhmanov](https://www.kaggle.com/lachin007/drawaperson-handdrawn-sketches-by-children).
 ##### The Abstract art was taken from [Bryan B](https://www.kaggle.com/bryanb/abstract-art-gallery).
 ##### The Major artworks were taken from [Icaro](https://www.kaggle.com/ikarus777/best-artworks-of-all-time).
